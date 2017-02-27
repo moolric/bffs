@@ -1,7 +1,7 @@
 ## Interface: 70100
 ## Title: Happyliltree is my BFF
 ## Version: 1.0.1
-## Author: kimmau
+## Author: moolric
 ## Notes: Marks your party members with raid markings with one-click
 ## DefaultState: Enabled
 

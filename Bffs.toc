@@ -1,5 +1,5 @@
 ## Interface: 110007
-## Title: Happyliltree is my BFF
+## Title: BFFs
 ## Version: 1.0.1
 ## Author: moolric
 ## Notes: Marks your party members with raid markings with one-click

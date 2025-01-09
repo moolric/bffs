@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="Toggle Markers" header="BFFS" category="ADDONS">
+        BFFS_Toggle()
+    </Binding>
+</Bindings>

@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: Puppywee is my BFF
+## Version: 1.0.1
+## Author: kimmau
+## Notes: Marks your party members with raid markings with one-click
+## DefaultState: Enabled
+
+Bffs.lua
